@@ -180,22 +180,3 @@ Financial institutions can proactively mitigate risk and build resilient lending
 | Krishna Dave | Report Writing (Primary) |
 | Ritik Atri | Data Cleaning (Primary) |
 
----
-
-## 🏫 Institute
-**Newton School of Technology**  
-Rishihood University  
-
----
-
-## 👨‍🏫 Faculty Mentor
-**Archit Raj**
-
----
-
-## 📅 Submission Date
-**February 2026**
-
----
-
-⭐ *If you like this project, consider giving it a star on GitHub!*
