@@ -1,14 +1,14 @@
-# 📊 Strategic Credit Delinquency Analysis  
+#  Strategic Credit Delinquency Analysis  
 ### Predictive Modeling for Financial Risk Mitigation
 
 ---
 
-## 🏦 Sector
+## Sector
 **Banking, Financial Services, and Insurance (BFSI)**
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In an era of volatile financial markets, **credit delinquency** (failure to repay debt for 90+ days) remains one of the biggest drivers of capital loss for lending institutions.
 
@@ -18,7 +18,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Categorize borrowers based on **probability of serious delinquency (2-year window)**
 - Analyze the impact of **credit utilization & debt behavior**
@@ -27,7 +27,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 
 **Source:** *Give Me Some Credit Dataset*
 
@@ -48,7 +48,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 ### Handling Missing Values
 - `MonthlyIncome` → Median Imputation (20% missing)  
@@ -64,7 +64,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 📏 KPI Framework
+## KPI Framework
 
 | KPI | Formula | Purpose |
 |-----|---------|---------|
@@ -74,7 +74,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Key Visual Studies
 
@@ -84,7 +84,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 🔍 Advanced Analysis
+## Advanced Analysis
 
 ### Borrower Segmentation
 
@@ -99,20 +99,20 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 🖥️ Dashboard Design
+## Dashboard Design
 
 **Built Using:** Google Sheets
 
 ### Components
-- 📌 Delinquency Rate Cards  
-- 📊 Age-wise Pivot Charts  
-- 🎛️ Filters (Dependents, Income Brackets)  
+- Delinquency Rate Cards  
+- Age-wise Pivot Charts  
+- Filters (Dependents, Income Brackets)  
 
 **Purpose:** Real-time credit risk monitoring
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Utilization > 70% → Strongest default indicator  
 - 30–59 day delays → Early warning signal  
@@ -122,7 +122,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 🛠️ Recommendations
+## Recommendations
 
 1. Limit new credit if utilization > 60%  
 2. Offer debt consolidation to Tier 2 borrowers  
@@ -130,7 +130,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 📈 Impact Estimation
+## Impact Estimation
 
 | Metric | Improvement |
 |--------|-------------|
@@ -140,14 +140,13 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
-- Snapshot dataset (no macroeconomic factors)  
 - Google Sheets scalability limit (~15K rows)  
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 - Alternative data integration  
 - Machine Learning (XGBoost, Random Forest)  
@@ -155,7 +154,7 @@ This project builds a **data-driven predictive framework** to identify high-risk
 
 ---
 
-## 📚 Conclusion
+## Conclusion
 
 Credit delinquency is **predictable, not random**.
 
@@ -169,7 +168,7 @@ Financial institutions can proactively mitigate risk and build resilient lending
 
 ---
 
-## 👥 Team Details — Section A, Group 3
+## Team Details — Section A, Group 3
 
 | Name | Role Highlights |
 |------|----------------|
@@ -179,4 +178,5 @@ Financial institutions can proactively mitigate risk and build resilient lending
 | Satyam Swarnakar | Dashboard (Primary) |
 | Krishna Dave | Report Writing (Primary) |
 | Ritik Atri | Data Cleaning (Primary) |
+
 
